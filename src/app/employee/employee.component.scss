@@ -1,0 +1,18 @@
+button {
+  background: rgb(1, 29, 51);
+  border-color: transparent;
+  color: #fff;
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+}
+
+.abc:nth-child(even) {
+  background-color: white;
+}
+
+.abc:nth-child(odd) {
+  background-color: silver;
+}
